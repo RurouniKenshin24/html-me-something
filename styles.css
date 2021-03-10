@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: left;
+}
+
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: left;
+	margin-top: 50px;
+}
+
+#thy-logo {
+    float: right;
+	width: 130px;
+    margin: auto;
+}
+
+#beykent-logo {
+    float: right;
+    width: 120px;
+    margin: auto;
+}
+
+#kpmg-logo {
+    float: right;
+    width: 120px;
+    margin: auto;
+}
+
+.education {
+	text-align: center;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  text-align: center;
+}
+
+th {
+  padding: 10px;
+}
+
+.message-box {
+	border-width: 4px;
+}
+
+form.submit-button {
+	
+}
